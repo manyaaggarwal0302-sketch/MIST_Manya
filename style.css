@@ -1,0 +1,147 @@
+#i1{
+    border: 5px solid;
+    border-color: gold;
+    border-radius:5px;
+}
+#i2{
+    border: 3px solid;
+    border-color: rgb(137, 73, 83);
+    border-radius:3px;
+}
+#i3{
+    border: 3px solid;
+    border-color: blue;
+    border-radius:3px;
+}
+#i4{
+    border: 3px solid;
+    border-color: red;
+    border-radius:3px;
+}
+#p1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:Blue;
+    font-style:italic;
+}
+h1{
+    font-family:'Arial Narrow Bold';
+    color:Black;
+}
+#p3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-style:italic;
+    color:green;
+}
+#p2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:beige;
+    font-style:italic;
+}
+.l1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:purple;
+    font-style:italic;
+}
+.l2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:green;
+    font-style:italic;
+}
+.l3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:seagreen;
+    font-style:italic;
+}
+#hd1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:Black;
+}
+#hd2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:Black;
+}
+#hd3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:Black;
+}
+#hd4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:Black;
+}
+#hd5{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:Black;
+}
+#hd6{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:Black;
+}
+#hd7{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color:Black;
+}
+.s1{
+    display: block;
+    background-color: goldenrod;
+    border-style:solid;
+    border-color:goldenrod;
+    border-radius:5px;
+}
+.s2{
+    display: block;
+    background-color: darkolivegreen;
+    border-style:solid;
+    border-color:darkolivegreen;
+    border-radius:5px;
+}
+.s3{
+    display: block;
+    background-color: darkgoldenrod;
+    border-style:solid;
+    border-color:darkgoldenrod;
+    border-radius:5px;
+}
+.s4{
+    display: block;
+    background-color: chartreuse;
+    border-style:solid;
+    border-color:chartreuse;
+    border-radius:5px;
+}
+.s5{
+    display: block;
+    background-color:aqua;
+    border-style:solid;
+    border-color:aqua;
+    border-radius:5px;
+}
+.s6{
+    display: block;
+    background-color:burlywood;
+    border-style:solid;
+    border-color:burlywood;
+    border-radius:5px;
+}
+.s7{
+    display: block;
+    background-color:hotpink;
+    border-style:solid;
+    border-color:hotpink;
+    border-radius:5px;
+}
+.s8{
+    font-size: 20px;
+}
