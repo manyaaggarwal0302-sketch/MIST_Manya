@@ -1,3 +1,6 @@
+body {
+    background-color:rgb(30, 28, 28);
+}
 #i1{
     border: 5px solid;
     border-color: gold;
@@ -43,7 +46,7 @@ h1{
 .l1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
-    color:purple;
+    color:gold;
     font-style:italic;
 }
 .l2{
@@ -116,16 +119,16 @@ h1{
 }
 .s4{
     display: block;
-    background-color: chartreuse;
+    background-color: green;
     border-style:solid;
-    border-color:chartreuse;
+    border-color:green;
     border-radius:5px;
 }
 .s5{
     display: block;
-    background-color:aqua;
+    background-color:blanchedalmond;
     border-style:solid;
-    border-color:aqua;
+    border-color:blanchedalmond;
     border-radius:5px;
 }
 .s6{
@@ -144,4 +147,5 @@ h1{
 }
 .s8{
     font-size: 20px;
+    color:white;
 }
